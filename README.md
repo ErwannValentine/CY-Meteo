@@ -4,15 +4,19 @@ Ce projet vise à créer une application qui traitera les données météo d'un 
 Les données traitées peuvent être choisies par l'utilisateur et comprennent la température et les pressions atmospheriques.
 Un script Shell permettra à l'utilisateur de spécifier les données à analyser, de filtrer les données et de créer des graphiques.
 
+
+
 ## Installation
 *** 
 La configuration système des PC de CYtech est nécessaire et suffisante
+
 
 ## Execution
 ***
 Pour executer le programme il suffit, dans le terminal, de saisir bash deb.sh suivies des bonnes options et arguments dans un ordre arbitraires :
 bash deb.sh <options1> <option2> <option3> 
 
+  
 ## Options
 ***
 Toutes les options désirées par l'utilisateur doivent être ajoutées à la suite de la commande principale (exemple : bash deb.sh -t1 -f meteo_filtered_data_v1 -r0)
