@@ -1,4 +1,4 @@
-# CY-Weather project by Valentin FERNANDES and Erwann DURANEL
+# Projet CY-Météo de Valentin FERNANDES et Erwann DURANEL
 ***
 Ce projet vise à créer une application qui traitera les données météo d'un fichier pour afficher des graphiques.
 Les données traitées peuvent être choisies par l'utilisateur et comprennent la température et les pressions atmospheriques.
